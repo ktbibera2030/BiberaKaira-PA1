@@ -1,5 +1,5 @@
 def display_playlist():
-    songs = ["Song 1", "Song 2", "Song 3"]
+    songs = ["7 Rings", "Golden Hour", "Bite Me"]
 
     print("\n===== MY PLAYLIST =====")
     for number, song in enumerate(songs, start=1):
