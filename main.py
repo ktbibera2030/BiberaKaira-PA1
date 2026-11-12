@@ -1,4 +1,4 @@
-python main.pyfrom profile import StudentProfile
+profile import StudentProfile
 from playlist import display_playlist
 
 student = StudentProfile()
