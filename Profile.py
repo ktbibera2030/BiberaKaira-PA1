@@ -1,9 +1,9 @@
 class StudentProfile:
     def __init__(self):
-        self.name = "Not provided"
-        self.age = "Not provided"
-        self.favorite = "Not provided"
-        self.hobbies = ["To be updated"]
+        self.name = "Kaira Bibera"
+        self.age = "12"
+        self.favorite = "N/A"
+        self.hobbies = ["Reading", "Sleeping", "Gaming", "Studying"]
 
     def display_profile(self):
         print("===== STUDENT PROFILE =====")
